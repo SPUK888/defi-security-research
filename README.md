@@ -1,4 +1,4 @@
-# DeFi Security Research — 0xSPUK
+# DeFi Security Research — SPUK888
 
 Independent smart-contract security research on live DeFi bug-bounty targets.
 
