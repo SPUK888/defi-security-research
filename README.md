@@ -4,7 +4,7 @@ Independent smart-contract security research on live DeFi bug-bounty targets.
 
 I run an **autonomous audit pipeline** — continuous static analysis (Slither, Aderyn, Semgrep) across tracked bug-bounty programs, with a local-LLM triage engine that reasons over every finding, files evidence, and escalates real leads. When it surfaces something worth a human look, I take the target apart by hand and publish what I find.
 
-This repo is the human half of that loop: **deep, honest writeups — one target at a time, weekly.**
+This repo is the human half of that loop.
 
 Most of these are *negative results* — "no exploitable bug in scope, here's exactly why." That's deliberate. In real auditing the majority of rigorous work ends in a clean verdict, and the value is in the reasoning: what was checked, what looked exploitable but wasn't, and where a real bug *would* live if one existed. A thousand documented cleans are what make the one true anomaly obvious.
 
