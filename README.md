@@ -1,4 +1,4 @@
-# DeFi Security Research — Scott Page
+# DeFi Security Research — 0xSPUK
 
 Independent smart-contract security research on live DeFi bug-bounty targets.
 
@@ -32,4 +32,4 @@ Most of these are *negative results* — "no exploitable bug in scope, here's ex
 4. **Verdict + evidence** — a documented conclusion with the reasoning, filed and re-checked when the target ships new code.
 
 ## Contact
-Scott Page · AI-Augmented Security Automation Engineer · Phuket, Thailand (UTC+7) · rooftop55@yahoo.com
+0xSPUK · AI-Augmented Security Automation Engineer · Independent DeFi & smart-contract security research
